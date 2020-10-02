@@ -1,5 +1,6 @@
-import Operations
 import codewars_test as Test
+import Context
+import Operations
 
 Test.it("Basic tests")
 Test.assert_equals(Operations.sumar(1, 2),3)
