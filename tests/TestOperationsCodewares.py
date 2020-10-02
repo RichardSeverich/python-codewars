@@ -1,4 +1,3 @@
-import Context
 import Operations
 import codewars_test as Test
 
